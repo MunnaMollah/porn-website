@@ -1,0 +1,25 @@
+.header{
+    text-align: center;
+    color: white;
+    
+    
+    font-size: 50px;
+    background: linear-gradient(45deg,blue,rgb(44, 213, 255));
+}
+.videos{
+    float: left;
+    margin-left: 5%;
+     
+}
+.second{
+    text-align: center;
+    color: dimgray;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+    
+    
+    
+}
+.foot{
+    text-align: center;
+    margin-top: 30;
+}
